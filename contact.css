@@ -1,0 +1,43 @@
+body{
+    background-image: url(contactlogo2.jpg);
+    background-repeat: no-repeat;
+    background-size: 1290px 700px;
+}
+form{
+    border: solid 1px rgb(81, 17, 190 hidden);
+    width: 500px;
+    padding-left: 10px;
+    margin-left: 10px;
+
+}
+h1{
+    color: rgb(3, 3, 17);
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+label{
+    color: rgb(3, 16, 3);
+    font-size: 22px;
+    font-weight: bold;
+}
+input{
+    height: 25px;
+    width: 350px;
+    border-radius: 20px;
+}
+textarea{
+    width: 350px;
+}
+button{
+    height: 40px;
+    width: 150px;
+    background-color: rgb(87, 18, 237);
+    font-size: 22px;
+    color: white;
+    font-weight: bold;
+    border-radius: 50%;
+}
+button:hover{
+    background-color: black;
+}
